@@ -3371,6 +3371,10 @@ textarea.form-control-lg {
   --bs-btn-border-radius: 0.25rem;
 }
 
+.btn-primary {
+  color: #f8f9fa;
+}
+
 .fade {
   transition: opacity 0.15s linear;
 }
