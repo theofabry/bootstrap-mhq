@@ -35,6 +35,6 @@
   }
 
   &.active {
-    color: var(--#{$prefix}breadcrumb-item-active-color);
+    color: $gray-400;
   }
 }
